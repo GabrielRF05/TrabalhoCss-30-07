@@ -1,0 +1,28 @@
+body{
+    background: rgb(100, 194, 238);
+    font-size: 20px;
+
+}
+
+
+.centralizar {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+ }
+
+
+ .conteudo-padrao{
+    box-shadow: 2px 2px 30px;
+    box-shadow: -2px -2px 30px;
+    border-radius: 15px;
+    background: lightblue;
+    
+    background: rgb(17,202,241);
+    background: rgb(17,202,241);
+background: radial-gradient(circle, rgba(17,202,241,1) 0%, rgba(153,127,240,1) 100%);
+    
+    text-align: center;
+ }
+
