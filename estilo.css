@@ -58,7 +58,17 @@ nav ul {
     
 }
 
-footer a{
+footer{
+    margin-bottom: 20px;
+}
+
+footer a {
     color: white;
-    text-shadow: black 0.1em 0.1em 0.2em
+    text-shadow: black 0.1em 0.1em 0.2em;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 10px;
+    background: linear-gradient(0deg, rgb(97, 88, 224) 0%, rgba(45,253,247,1) 100%);
+    text-decoration: none;
+    font-size: 20px;
 }
